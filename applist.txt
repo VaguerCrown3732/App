@@ -1,0 +1,7 @@
+List of things a working app could do
+
+- A video app
+- An app that shows what is in stock
+- Pizza app
+- Delivery app
+- Shoe app
